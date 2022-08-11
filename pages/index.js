@@ -1,6 +1,6 @@
 import { client } from "../libs/client";
 import styles from "../styles/Home.module.scss";
-import Link from "next/Link"
+import Link from "next/link"
 
 //SSG
 export const getStaticProps = async () => {
